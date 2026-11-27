@@ -1,4 +1,4 @@
-# ReactJS Portfolio (Practical No. 14)
+# ReactJS Portfolio 
 
 ## Run locally
     npm install
